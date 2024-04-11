@@ -1,0 +1,12 @@
+{
+  "en": {
+    "settings": "Settings",
+    "darkMode": "Dark Mode",
+    "welcomeMessage": "Welcome to our app!"
+  },
+  "fr": {
+    "settings": "Paramètres",
+    "darkMode": "Mode sombre",
+    "welcomeMessage": "Bienvenue dans notre application !"
+  }
+}
